@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 ยินดีต้อนรับสู่ Carbonwize](README.md)
+* [👋 ยินดีต้อนรับสู่ cWallet](README.md)
 
 ## ข้อมูลเบื้องต้น <a href="#fundamentals" id="fundamentals"></a>
 
