@@ -13,8 +13,7 @@
 
 <figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.33.51.png" alt=""><figcaption></figcaption></figure>
 
-* กรอกข้อมูล รายละเอียด EF ทั้งหมด
-* สามารถแนบไฟล์เอกสารได้
+* กรอกข้อมูล รายละเอียด EF ทั้งหมดให้ครบถ้วน
 
 
 
