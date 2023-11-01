@@ -8,7 +8,7 @@
 
 #### ในกรณีที่เคยตั้งค่าแบบง่ายแล้วระบบจะเข้าสู่หน้า กรอกข้อมูลรายการตรวจวัดทั้นที
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเลือก ประเภทอุตสาหกรรมที่ตรงกับธุกิจ&#x20;
 2. กดปุ่ม เลือก

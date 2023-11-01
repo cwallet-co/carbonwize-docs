@@ -1,6 +1,6 @@
 # ขั้นตอนการลงทะเบียนเป็น Auditor at cWallet
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * เข้าลิงก์ [https://app.cwallet.co/register-auditor](https://app.cwallet.co/register-auditor) เพื่อลงทะเบียนเป็น Auditor at cWallet
 * กรอกข้อมูลการลงทะเบียนให้ครบถ้วน
