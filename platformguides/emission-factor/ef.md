@@ -2,7 +2,7 @@
 
 ## ขั้นตอนการ Mapping Emission Factor
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู Emission Factor
 2. กดเมนู Mapping Emission Factor
@@ -16,8 +16,6 @@
 
 1. เลือก Emission Factor ที่ต้องการ Mapping กับตัวรายการกิจกรรม
 
-
-
 <figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
-1. เมื่อ Mapping Emission Factor เสร็จเรียบร้อยแล้ว ตัว Factor จะถูกนำไปคำนวณการปล่อยก๊าซเรือนกระจกของรายการนั้นๆ&#x20;
+1. เมื่อ Mapping Emission Factor เสร็จเรียบร้อยแล้ว ตัว Factor จะถูกนำไปคำนวณการปล่อยก๊าซเรือนกระจกของรายการนั้นๆ

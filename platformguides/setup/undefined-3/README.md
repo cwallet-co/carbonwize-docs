@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ตั้งค่าการใช้งาน
 2. กดปุ่ม บัญชีผู้ใช้
@@ -11,7 +11,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2566-11-01 at 15.55.12.png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกชื่อ
 2. กรอกนามสกุล
@@ -21,7 +21,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2566-11-01 at 15.56.33.png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อกดปุ่มบันทึกการเพิ่มสมาชิกแล้ว สามารถกดปุ่ม คัดลอก เพื่อส่งรหัสในการเข้าใช้ระบบให้กับสมาชิก
 2. กดปุ่ม “ยืนยัน”
@@ -30,20 +30,18 @@
 
 ## **ขั้นตอนการแก้ไขสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูบัญชีผู้ใช้
 2. กดแถบสมาชิก
-3. กดปุ่มสามจุด&#x20;
+3. กดปุ่มสามจุด
 4. กดปุ่ม “แก้ไข”
-
-
 
 ## **ขั้นตอนการขอรหัสผ่านใหม่**
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูบัญชีผู้ใช้
 2. กดแถบสมาชิก
-3. กดปุ่มสามจุด&#x20;
+3. กดปุ่มสามจุด
 4. กดปุ่ม “ขอรหัสผ่านใหม่”

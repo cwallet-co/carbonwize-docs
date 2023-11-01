@@ -2,15 +2,16 @@
 
 ### **ขั้นตอนการส่งคำขออนุมัติจากฉบับร่าง**
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-1. กดแถบเมนู กรอกข้อมูลรายการตรวจวัด
-2. ตรวจสอบชื่อรายการ
-3. ตรวจสอบวันที่/เดือน/ปี
-4. ตรวจสอบสถานะต้องเป็น “ร่าง” เท่านั้น
-5. กด icon ในช่องจัดการ เพื่อแก้ไขฉบับร่าง,ส่งคำขออนุมัติ
+1. ตรวจสอบชื่อรายการ
+2. ตรวจสอบวันที่/เดือน/ปี
+3. ตรวจสอบสถานะต้องเป็น “ร่าง” เท่านั้น
+4. กด icon ในช่องจัดการ เพื่อแก้ไขฉบับร่าง, ส่งคำขออนุมัติ
 
-<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจเช็คจำนวน
 2. ตรวจเช็ควันที่
@@ -20,7 +21,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 16.47.33.png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อส่งคำขออนุมัติแล้วจะแสดงข้อมูลในหน้าประวัติ แล้วจะแสดงสถานะเป็น “รออนุมัติ”
 2. จะไม่สามารถแก้ไขข้อมูลได้เนื่องจากข้อมูลถูกส่งคำขออนุมัติไปแล้ว

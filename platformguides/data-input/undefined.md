@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการบันทึกข้อมูลฉบับร่าง**
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม กรอกข้อมูลรายการตรวจวัด
 2. ตรวจเช็คชื่อรายการ ก่อนกรอกข้อมูล
@@ -10,26 +10,22 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจเช็คชื่อรายการ ก่อนกรอกข้อมูล
 2. กดปุ่ม “เพิ่มข้อมูลใหม่”
 
 
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 1. ใส่จำนวนข้อมูล
 2. ตรวจเช็ควันที่/เดือน/ปี
 3. แนบไฟล์ (ถ้ามี)
-4. คำอธิบาย (ถ้ามี)  คำอธิบายในฉบับร่างจะไม่ได้ถูกเก็บเข้าใน Transaction Log
+4. คำอธิบาย (ถ้ามี) คำอธิบายในฉบับร่างจะไม่ได้ถูกเก็บเข้าใน Transaction Log
 5. กดปุ่ม “บันทึกร่าง”
 
-
-
-<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
-
-เมื่อกด “สร้าง” แล้วตัวข้อมูลจะแสดงในหน้าประวัติ และแสดงสถานะ “ร่าง”
+เมื่อกด “บันทึกร่าง” แล้วข้อมูลจะแสดงในหน้าประวัติ และแสดงสถานะ “ร่าง”
 
 สามารถกด icon ในช่องจัดการ เพื่อแก้ไขฉบับร่าง,ส่งคำขออนุมัติ
 
@@ -37,17 +33,16 @@
 **ขั้นตอนการแก้ไขข้อมูลฉบับร่าง**
 ---------------------------------
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-1. กดแถบเมนู กรอกข้อมูลรายการตรวจวัด
-2. ตรวจสอบชื่อรายการ
-3. ตรวจสอบวันที่/เดือน/ปี
-4. ตรวจสอบสถานะต้องเป็น “ร่าง” เท่านั้น
-5. กด icon ในช่องจัดการ เพื่อแก้ไขฉบับร่าง,ส่งคำขออนุมัติ
-
+1. ตรวจสอบชื่อรายการ
+2. ตรวจสอบวันที่/เดือน/ปี
+3. ตรวจสอบสถานะต้องเป็น “ร่าง” เท่านั้น
+4. กด icon ในช่องจัดการ เพื่อแก้ไขฉบับร่าง,ส่งคำขออนุมัติ
 
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 16.44.34.png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขจำนวนข้อมูล
 2. แนบไฟล์ (ถ้ามี)

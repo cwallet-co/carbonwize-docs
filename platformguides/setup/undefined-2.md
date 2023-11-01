@@ -1,8 +1,8 @@
 # รายการกิจกรรม
 
-### **ขั้นตอนการสร้างรายการกิจกรรม**
+## **ขั้นตอนการสร้างรายการกิจกรรม**
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู “ตั้งค่าการใช้งาน”
 2. กดเมนู “รายการกิจกรรม”
@@ -10,7 +10,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 15.51.30 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ใส่รายละเอียดของบริษัท
 
@@ -21,7 +21,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกประเภทอุตสาหกรรม
 2. เลือกกิจกรรม
@@ -30,5 +30,5 @@
 {% hint style="success" %}
 รายการกิจกรรมสามารถเลือกประเภทและรายการได้มากกว่า 1 รายการ
 
-เมื่อเลือกรายการและกดถัดไปแล้วตัวรายการจะถูกสร้างตามขอบเขตที่เลือก
+เมื่อเลือกรายการ
 {% endhint %}

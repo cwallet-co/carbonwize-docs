@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการไม่อนุมัติรายการ**
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู การอนุมัติรายการ
 2. กดแถบ รออนุมัติ
@@ -10,9 +10,9 @@
 
 
 
-#### ตรวจเช็คข้อมูลรายการ&#x20;
+#### ตรวจเช็คข้อมูลรายการ
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.09.25.png" alt=""><figcaption></figcaption></figure>
 
 1. วันที่
 2. จำนวน
@@ -21,7 +21,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.11.08.png" alt=""><figcaption></figcaption></figure>
 
 #### ไม่อนุมัติรายการ
 
@@ -30,7 +30,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.12.40.png" alt=""><figcaption></figcaption></figure>
 
 #### เมื่อรายการไม่ถูกอนุมัติตัวรายการจะย้อนกลับมาให้ Import แก้ไขข้อมูลอีกครั้ง
 
@@ -40,11 +40,10 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.18.50.png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขข้อมูลที่ผิด
 2. ใส่คำอธิบายเพื่อให้ทราบว่าได้แก้ไขข้อมูลที่ผิดแล้ว หรือไม่ใส่ก็ได้
 3. กดปุ่ม บันทึ
 
 #### เมื่อกดบันทึกรายการแล้วตัวรายการจะส่งไปยังขั้นตอน การอนุมัติรายการอีกครั้ง
-
