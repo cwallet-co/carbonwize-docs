@@ -2,6 +2,6 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-* เข้าลิงก์ [https://app.cwallet.co/](https://app.cwallet.co/)
-* เข้าสู่ระบบโดยการเลือก Login As Auditor
-* กรอก Email, Password
+1. เข้าลิงก์ https://app.carbonwize.io/login-auditor
+2. เข้าสู่ระบบโดยการเลือก Login As Auditor
+3. กรอก Email, Password
