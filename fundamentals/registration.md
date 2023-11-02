@@ -9,7 +9,7 @@ _ผู้ใช้งานแพลทฟอร์ม cWallet ในปัจ�
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าลิงก์ [https://www.carbonwize.io/](https://www.carbonwize.io/) ผ่าน <mark style="color:blue;">Google Chrome</mark> หรือ <mark style="color:blue;">Safari</mark>
-2. กดปุ่ม **Get started**
+2. กดปุ่ม **Log in**
 
 
 
@@ -88,6 +88,12 @@ _ผู้ใช้งานแพลทฟอร์ม cWallet ในปัจ�
 
 #### ตรวจสอบข้อความในเมลอีกครั้งเพื่อ **VERIFY MY ACCOUNT** และสามารถเข้าสู่ระบบได้ทันที
 
-## ตัวอย่าง ข้อความสำหรับ **VERIFY MY ACCOUNT**
+## ตัวอย่าง ข้อความสำหรับ CONFIRM ACCOUNT
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+
+1. กดปุ่ม here เพื่อเข้าสู่ระบบ

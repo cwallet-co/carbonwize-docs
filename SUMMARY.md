@@ -50,7 +50,7 @@
 
 ## คู่มือการใช้งานแพลทฟอร์ม Auditor <a href="#platformguides" id="platformguides"></a>
 
-* [ขั้นตอนการลงทะเบียนเป็น Auditor at cWallet](platformguides-2/auditor-at-cwallet.md)
+* [ขั้นตอนการลงทะเบียนเป็น Auditor at Carbonwize](platformguides-2/auditor-at-cwallet.md)
 * [ขั้นตอนการเข้าสู่ระบบ](platformguides-2/undefined.md)
 * [ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าบริษัท](platformguides-2/undefined-1.md)
 * [ทวนสอบข้อมูล](platformguides-2/undefined-2.md)
