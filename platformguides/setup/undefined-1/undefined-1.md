@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มแผนก**
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู การตั้งค่าการใช้งาน
 2. กดเมนู ตั้งค่าองค์กร
@@ -20,7 +20,7 @@
 
 ## **ขั้นตอนการแก้ไขแผนก**
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู โครงสร้างแผนก
 2. กด icon (icon จุดสามจุด) จากนั้นแก้ไขข้อมูลที่ต้องการแก้ไข

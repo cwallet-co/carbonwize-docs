@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ตั้งค่าการใช้งาน
 2. กดปุ่ม บัญชีผู้ใช้
@@ -30,7 +30,7 @@
 
 ## **ขั้นตอนการแก้ไขสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูบัญชีผู้ใช้
 2. กดแถบสมาชิก
@@ -39,7 +39,7 @@
 
 ## **ขั้นตอนการขอรหัสผ่านใหม่**
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูบัญชีผู้ใช้
 2. กดแถบสมาชิก

@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการสร้างองค์กร**
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู ตั้งค่าการใช้งาน
 2. กดเมนู ตั้งค่าองค์กร
@@ -23,7 +23,7 @@
 
 ## **ขั้นตอนการแก้ไของค์กร**
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บ โครงสร้างองค์กร
 2. กด icon (icon จุดสามจุด) จากนั้นกด แก้ไข

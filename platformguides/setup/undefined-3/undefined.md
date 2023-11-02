@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการตั้งค่าบทบาทอย่างละเอียด**
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ตั้งค่าการใช้งาน
 2. กดแถบ มอบหมายบทบาท

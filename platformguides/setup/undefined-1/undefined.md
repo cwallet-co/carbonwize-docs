@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการสร้างอาคาร**
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู “ตั้งค่าการใช้งาน”
 2. กดเมนู ตั้งค่าองค์กร
@@ -24,10 +24,10 @@
 
 ## **ขั้นตอนการแก้ไขอาคาร**
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กด icon (icon จุดสามจุด) ของรายการที่ต้องการแก้ไข
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขรายละเอียดของอาคารที่ต้องการแก้ไข จากนั้นกด “บันทึก”
