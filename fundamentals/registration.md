@@ -11,15 +11,21 @@ _ผู้ใช้งานแพลทฟอร์ม cWallet ในปัจ�
 1. เข้าลิงก์ [https://www.carbonwize.io/](https://www.carbonwize.io/) ผ่าน <mark style="color:blue;">Google Chrome</mark> หรือ <mark style="color:blue;">Safari</mark>
 2. กดปุ่ม **Get started**
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่ม [Sign up](https://app.cwallet.co/register-code) เพื่อลงทะเบียนใช้งานระบบ
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+1. กดปุ่ม Sign up เพื่อลงทะเบียนใช้งานระบบ
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2566-11-02 at 12.34.01.png" alt=""><figcaption></figcaption></figure>
 
 1. ใส่รหัสลงทะเบียนเพื่อสร้างบัญชี
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอก "ชื่อ"
 2. กรอก "นามสกุล"
@@ -38,29 +44,43 @@ _ผู้ใช้งานแพลทฟอร์ม cWallet ในปัจ�
 5. มีอักขระพิเศษ
 6. ยืนยันรหัสผ่าน
 
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
-1. เลือก อุตสาหกรรม
+
+<figure><img src="../.gitbook/assets/Screenshot 2566-11-02 at 12.36.04.png" alt=""><figcaption></figcaption></figure>
+
+
+
+1. เลือกประเภทธุรกิจอุตสาหกรรม
 2. กดปุ่ม Next
+
+
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-1. เลือก หน้าที่งาน
+1. เลือก ตำแหน่ง
 2. กดปุ่ม Next
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2566-11-02 at 12.38.51.png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกเบอร์โทร
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2566-11-02 at 12.39.19.png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกชื่อบริษัท
 2. กดปุ่ม Next
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2566-11-02 at 12.39.51.png" alt=""><figcaption></figcaption></figure>
 
 1. ใส่เว็บไซต์บริษัท หรือ ไม่ใส่
 2. กดปุ่ม Next หากไม่ใส่กดปุ่ม SKIP
+
+
 
 <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
