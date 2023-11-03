@@ -10,10 +10,10 @@
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-1. เมื่อลงทะเบียนและได้รับเมลแจ้งเตือนแล้ว รอทาง cWallet ติดต่อและส่งเมลตอบกลับอีกครั้ง
+1. เมื่อลงทะเบียนและได้รับเมลแจ้งเตือนแล้ว รอทาง Carbonwize ติดต่อและส่งเมลตอบกลับอีกครั้ง
 
 
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1. เมื่อได้รับเมลตอบกลับจาก cWallet สามารถเข้าสู่ระบบได้ทันที
+1. เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบได้ทันที
