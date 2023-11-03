@@ -4,7 +4,7 @@
 
 ## ข้อมูลเบื้องต้น <a href="#fundamentals" id="fundamentals"></a>
 
-* [bookdemo](fundamentals/bookdemo.md)
+* [✍ bookdemo](fundamentals/bookdemo.md)
 * [✍ ลงทะเบียนใช้งาน (Beta)](fundamentals/registration.md)
 * [👩🔧 บทบาทและหน้าที่](fundamentals/roles-and-responsibilities.md)
 
