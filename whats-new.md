@@ -1,5 +1,14 @@
 # What's new
 
+## 1.2.0 (2023-11-03)
+
+### Improvements/Performance&#x20;
+
+* ปรับรูปแบบการแสดงเมนูให้ดีขึ้น
+* เปลี่ยนรูปแบบการส่งอีเมลจาก cWallet => Carbonwize
+* หน้า Landing page ปรับปุ่ม จาก Contact => Book demo
+* เรื่องการอนุญาตของบทบาทปรับเอารายการเป้าหมาย/ตัวแปรพิเศษออก
+
 ## 1.1.0 (2023-10-30)
 
 ### Improvements/Performance&#x20;
