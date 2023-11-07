@@ -11,10 +11,11 @@
 3. กรอกข้อมูลทั้งหมด จากนั้น กด Sign up
 4. กรอกข้อมูลทั้งหมด จากนั้น กด Get started
 
-\
 
 
-\
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-
-\
+1. Check your email
+2. กดปุ่ม CONFIRM ACCOUNT
+3. ยืนยันบัญชีสำเร็จ กดที่ here เพื่อเข้าสู่ระบบ
+4. สามารถ login เข้าสู่ระบบได้ทันที
