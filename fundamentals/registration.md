@@ -6,7 +6,7 @@ _ผู้ใช้งานแพลทฟอร์ม cWallet ในปัจ�
 
 ## ลงทะเบียนเข้าใช้งานครั้งแรก
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าลิงก์ [https://www.carbonwize.io/](https://www.carbonwize.io/) ผ่าน <mark style="color:blue;">Google Chrome</mark> หรือ <mark style="color:blue;">Safari</mark>
 2. กดปุ่ม **Log in**
