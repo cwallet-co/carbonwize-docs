@@ -1,6 +1,6 @@
 # ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าบริษัท
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### เมลแจ้งเตือนให้ตอบรับคำเชิญ
 
