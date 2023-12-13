@@ -1,26 +1,33 @@
-# การตั้งค่าโครงสร้างแผนก
+# การตั้งค่าโครงสร้างอาคาร
 
-## **ขั้นตอนการเพิ่มแผนก**
+## **ขั้นตอนการเพิ่มอาคาร**
 
-<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนู การตั้งค่าการใช้งาน
+1. กดเมนู ตั้งค่าการใช้งาน
 2. กดเมนู ตั้งค่าองค์กร
-3. กดแท็บ โครงสร้างแผนก
-4. กดปุ่ม เพิ่มแผนก
+3. กดแท็บ โครงสร้างอาคาร
+4. กดปุ่ม เพิ่มอาคาร
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2566-11-01 at 15.47.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
-1. เลือกบริษัท ที่ต้องการเพิ่มแผนก
-2. ใส่ชื่อแผนก
-3. ใส่จำนวนบุคลากร
-4. กดปุ่ม "สร้าง"
+1. ใส่รายละเอียดข้อมูลอาคารให้ครบถ้วน
+2. กดปุ่ม บันทึก
 
-## **ขั้นตอนการแก้ไขแผนก**
 
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนู โครงสร้างแผนก
-2. กด icon (icon จุดสามจุด) จากนั้นแก้ไขข้อมูลที่ต้องการแก้ไข
+## **ขั้นตอนการแก้ไขอาคาร**
+
+<figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+
+1. กดแท็บ โครงสร้างอาคาร
+2. กด icon (icon edit)
+
+
+
+<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+
+1. แก้ไขข้อมูล
+2. กดปุ่ม บันทึก
