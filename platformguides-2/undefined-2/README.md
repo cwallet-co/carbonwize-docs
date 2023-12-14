@@ -2,7 +2,7 @@
 
 ## การ์ดทวนสอบข้อมูล
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. แสดงปีที่ทวนสอบข้อมูล
 2. แสดงสถานะของบริษัทและผู้ทวนสอบ
@@ -14,14 +14,14 @@
 
 ## หน้ารายการกิจกรรม
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. หน้ารายการกิจกรรมแสดงข้อมูลรายการของบริษัททั้งหมดโดยเรียงตาม scope
 2. สามารถกดในรายการเพื่อดูข้อมูลเพิ่มเติมของรายการนั้นได้
 
 
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อกดในรายการแล้ว จะแสดงข้อมูลข้อมูลทั้งหมดของแต่ละเดือน และแสดงเปอร์เซ็นความเปลี่ยนแปลงระหว่างปีก่อนหน้ากับปีปัจจุบัน
 2. สามารถดูเอกสารแนบเพิ่มเติมได้
@@ -30,14 +30,14 @@
 
 ## หน้าค่าการปล่อยก๊าซเรือนกระจก
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. หน้าค่าการปล่อยก๊าซเรือนกระจกแสดงข้อมูลรายการของบริษัททั้งหมดโดยเรียงตาม scope
 2. สามารถกดปุ่มตามลูกศรเพื่อดูค่า GHG รวม (tCo2eq)
 
 
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อกดปุ่มตามลูกศรแล้วจะแสดงค่า GHG รวม (tCo2eq) ของรายการนั้น
 
@@ -45,7 +45,7 @@
 
 ## หน้าการแบ่งสัดส่วนองค์กร
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. หน้าการแบ่งสัดส่วนองค์กรจะแสดงเปอร์เซ็นการแบ่งสัดส่วนคาร์บอนของแต่ละรายการตาม scope เมื่อแบ่งเปอร์เซ็นแล้ว ผลรวมต้องเท่ากับ 100%
 
@@ -53,7 +53,7 @@
 
 ## หน้านัยสำคัญ
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. หน้านัยสำคัญจะแสดงระดับความมีสาระสำคัญของ scope 1-2 เท่านั้น
 
