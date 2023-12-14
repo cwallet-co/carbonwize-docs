@@ -16,9 +16,18 @@
 1. ใส่รายละเอียดข้อมูลแผนกให้ครบถ้วน
 2. กดปุ่ม บันทึก
 
+
+
 ## **ขั้นตอนการแก้ไขแผนก**
 
-
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู โครงสร้างแผนก
-2. กด icon (icon จุดสามจุด) จากนั้นแก้ไขข้อมูลที่ต้องการแก้ไข
+2. กด icon (icon edit)
+
+
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+1. แก้ไขข้อมูล
+2. กดปุ่ม บันทึก
