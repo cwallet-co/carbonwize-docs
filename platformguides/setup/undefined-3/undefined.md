@@ -1,58 +1,63 @@
 # การตั้งค่าบทบาทอย่างละเอียด
 
-## **ขั้นตอนการตั้งค่าบทบาทอย่างละเอียด**
+## **ขั้นตอนการเพิ่มบทบาท**
 
-<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่ม ตั้งค่าการใช้งาน
-2. กดแถบ มอบหมายบทบาท
-3. กดปุ่ม เพิ่มบทบาท
-
-
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2566-11-01 at 16.04.08.png" alt=""><figcaption></figcaption></figure>
-
-ใส่ชื่อบทบาท
-
-1. เลือกสีบทบาท
-2. กดปุ่ม “ถัดไป”
+1. กดเมนู ตั้งค่าการใช้งาน
+2. กดเมนู จัดการบัญชีผู้ใช้
+3. กดแท็บ Roles & Permission
+4. กดปุ่ม เพิ่มบทบาท
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2566-11-01 at 16.05.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-1. เลือกการอนุญาตการเข้าถึงให้กับบทบาทนั้น
-2. กดปุ่ม “ถัดไป”
+1. กรอกชื่อบทบาท
+2. เลือกการอนุญาตการเข้าถึงให้กับบทบาทนั้น
+3. กดปุ่ม บันทึก
+
+
 
 ## **ขั้นตอนการแก้ไขบทบาท**
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่ม ตั้งค่าการใช้งาน
-2. กดแถบ มอบหมายบทบาท
-3. กดปุ่มสามจุด
-4. กดปุ่ม แก้ไข
+1. กดแท็บ Roles & Permission
+2. กด icon (icon edit)
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+1. แก้ไขข้อมูล
+2. กดปุ่ม บันทึก
+
+
 
 ## **ขั้นตอนการลบบทบาท**
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่ม ตั้งค่าการใช้งาน
-2. กดแถบ มอบหมายบทบาท
-3. กดปุ่มสามจุด
-4. กดปุ่ม ลบ
-
-## **ขั้นตอนการเพิ่ม user ในบทบาท**
-
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
-1. กดปุ่ม ตั้งค่าการใช้งาน
-2. กดแถบ มอบหมายบทบาท
-3. กดปุ่มเพิ่ม user ในบทบาท
+1. กดแท็บ Roles & Permission
+2. กด icon (icon delete)
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2566-11-01 at 16.09.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่ม เลือก user ที่ต้องการให้ใช้บทบาทนั้น
-2. กดปุ่ม “บันทึก”
+1. กดปุ่ม ยืนยัน
+
+
+
+## **ขั้นตอนการเพิ่มสมาชิกในบทบาท**
+
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+1. กดแท็บ Roles & Permission
+2. กด icon (icon add member)
+
+
+
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+1. กดปุ่มเลือกสมาชิกที่ต้องการให้ใช้บทบาทนั้น
+2. กดปุ่ม บันทึก

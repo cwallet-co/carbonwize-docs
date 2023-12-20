@@ -1,6 +1,6 @@
 # ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าบริษัท
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### เมลแจ้งเตือนให้ตอบรับคำเชิญ
 
@@ -8,7 +8,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อผู้ทวนสอบตอบรับคำเชิญเรียบร้อย
 2. บัญชีของบริษัทจะแสดงข้อมูลชื่อผู้ทวนสอบ ในหน้า เพิ่มผู้ทวนสอบ

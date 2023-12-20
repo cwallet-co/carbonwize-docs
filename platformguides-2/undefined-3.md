@@ -2,7 +2,7 @@
 
 ### หน้าโปรไฟล์
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มตามลำดับ โปรไฟล์ => ข้อมูลส่วนตัว
 
