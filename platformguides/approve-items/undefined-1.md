@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการไม่อนุมัติรายการ**
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู การอนุมัติรายการ
 2. กดแท็บ รออนุมัติ
@@ -10,9 +10,9 @@
 
 
 
-#### ตรวจเช็คข้อมูลรายการ
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.09.25.png" alt=""><figcaption></figcaption></figure>
+#### ตรวจเช็คข้อมูลรายการ
 
 1. วันที่
 2. จำนวน
@@ -21,29 +21,27 @@
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.11.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 #### ไม่อนุมัติรายการ
 
-1. ใส่คำอธิบายเพื่อให้ทราบว่าข้อมูลผิด หรือไม่ใส่ก็ได้
+1. ใส่คำอธิบายเพื่อให้ทราบว่าข้อมูลผิด
 2. กดปุ่ม ไม่อนุมัติ
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.12.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-#### เมื่อรายการไม่ถูกอนุมัติตัวรายการจะย้อนกลับมาให้ Import แก้ไขข้อมูลอีกครั้ง
+#### เมื่อรายการไม่ถูกอนุมัติตัวรายการจะต้องทำการแก้ไขข้อมูลอีกครั้ง
 
-1. กดเมนู การอนุมัติรายการ
-2. กดแท็บ ไม่อนุมัติ
-3. เลือกรายการที่ไม่อนุมัติเพื่อแก้ไขข้อมูล
+1. กดแท็บ ไม่อนุมัติ
+2. เลือกรายการที่ไม่อนุมัติเพื่อแก้ไขข้อมูล
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.18.50.png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขข้อมูลที่ผิด
-2. ใส่คำอธิบายเพื่อให้ทราบว่าได้แก้ไขข้อมูลที่ผิดแล้ว หรือไม่ใส่ก็ได้
-3. กดปุ่ม บันทึ
+2. กดปุ่ม บันทึก
 
-#### เมื่อกดบันทึกรายการแล้วตัวรายการจะส่งไปยังขั้นตอน การอนุมัติรายการอีกครั้ง
+#### เมื่อกดบันทึกรายการแล้วตัวรายการจะไปยังขั้นตอน การอนุมัติรายการอีกครั้ง

@@ -2,7 +2,7 @@
 
 ## ตั้งค่าโครงสร้างบริษัท
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กด icon ตั้งค่าบริษัท
 

@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มบทบาท**
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู ตั้งค่าการใช้งาน
 2. กดเมนู จัดการบัญชีผู้ใช้
@@ -11,7 +11,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกชื่อบทบาท
 2. เลือกการอนุญาตการเข้าถึงให้กับบทบาทนั้น
@@ -21,12 +21,12 @@
 
 ## **ขั้นตอนการแก้ไขบทบาท**
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บ Roles & Permission
 2. กด icon (icon edit)
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขข้อมูล
 2. กดปุ่ม บันทึก
@@ -35,14 +35,14 @@
 
 ## **ขั้นตอนการลบบทบาท**
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บ Roles & Permission
 2. กด icon (icon delete)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ยืนยัน
 

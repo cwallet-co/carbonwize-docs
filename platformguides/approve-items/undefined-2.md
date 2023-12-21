@@ -1,8 +1,8 @@
 # ขั้นตอนการขอแก้ไขรายการ
 
-## **ขั้นตอนการขอแก้ไขข้อมูลหลังจากอนุมัติรายการไปแล้ว**
+## **ขั้นตอนการขอแก้ไขข้อมูลหลังจากอนุมัติรายการแล้ว**
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 #### การขอแก้ไขข้อมูลหลังจากที่อนุมัติรายการไปแล้วจะสามารถขอแก้ไขได้โดย Approver เท่านั้น ส่วนการแก้ไขข้อมูลจะเป็น Admin เท่านั้น
 
@@ -10,18 +10,20 @@
 2. กดแท็บ การอนุมัติแล้ว
 3. กดเลือกรายการที่ต้องการขอแก้ไข
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### ตรวจเช็คข้อมูลรายการ
 
 1. จำนวน
 2. วันที่
-3. เอกสารประกอบข้อมูล
-4. กดปุ่ม ยื่นคำขอแก้ไข
+3. เอกสารไฟล์แนบ
+4. กดปุ่ม ส่งคำขอการแก้ไข
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.23.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 1. ใส่คำอธิบายเพื่อให้ทราบว่าข้อมูลผิด เพื่อที่ Admin จะได้แก้ไขข้อมูลได้ถูกต้อง
 2. กดปุ่ม ส่งคำขอการแก้ไข
@@ -30,18 +32,19 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### การแก้ไขรายการที่อนุมัติไปแล้วจะสามารถทำได้โดย Admin เท่านั้น
 
 1. เลือกเมนู การอนุมัติรายการ
 2. กดแท็บ รอการแก้ไข
-3. เลือกรายการที่ได้ขอการแก้ไขมา
+3. เลือกรายการที่รอการแก้ไข
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.24.58.png" alt=""><figcaption></figcaption></figure>
 
-1. แก้ไขข้อมูลที่ผิด
-2. ใส่คำอธิบายเพื่อให้ทราบว่าได้แก้ไขข้อมูลที่ผิดแล้ว หรือไม่ใส่ก็ได้
-3. กดปุ่ม บันทึก
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+1. แก้ไขข้อมูล, ไฟล์แนบ
+2. กดปุ่ม บันทึก
 
 #### เมื่อกดบันทึกรายการแล้ว รายการจะอยู่ในแท็บ อนุมัติแล้ว

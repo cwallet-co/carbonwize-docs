@@ -33,6 +33,6 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 1. แสดงงานที่ได้รับมอบหมายถูกต้อง

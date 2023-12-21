@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการอนุมัติรายการ**
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู การอนุมัติรายการ
 2. กดแท็บ รออนุมัติ
@@ -10,7 +10,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.05.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ตรวจเช็คข้อมูลรายการ
 
@@ -21,8 +21,6 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนู การอนุมัติรายการ
-2. กดแท็บ อนุมัติแล้ว
-3. เมื่ออนุมัติเรียบร้อยตัวรายการจะเข้าไปอยู่ในแถบ อนุมัติแล้ว
+1. เมื่ออนุมัติรายการเรียบร้อย รายการจะเข้าไปอยู่ในแถบ อนุมัติแล้ว
