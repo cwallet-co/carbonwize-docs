@@ -30,3 +30,9 @@
 
 1. เลือกรายการกิจกรรม
 2. กดปุ่ม บันทึก
+
+
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+1. แสดงงานที่ได้รับมอบหมายถูกต้อง

@@ -17,7 +17,7 @@ _ผู้ใช้งานแพลทฟอร์ม cWallet ในปัจ�
 
 1. กดปุ่ม Create a new account
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกข้อมูลทั้งหมดให้ครบถ้วน
 2. กดปุ่ม Register
