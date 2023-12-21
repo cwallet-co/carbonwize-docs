@@ -57,7 +57,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มเลือกสมาชิกที่ต้องการให้ใช้บทบาทนั้น
 2. กดปุ่ม บันทึก

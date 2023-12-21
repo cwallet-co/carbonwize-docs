@@ -26,7 +26,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2566-11-01 at 16.13.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
-1. ติ๊กเลือก user ที่ต้องการให้รับผิดชอบงานนั้น
-2. กดปุ่ม “บันทึก”
+1. เลือกรายการกิจกรรม
+2. กดปุ่ม บันทึก
