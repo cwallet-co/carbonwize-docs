@@ -90,6 +90,6 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อมีการตอบกลับจากบริษัทด้วยสถานะ และคำชี้แจ้งแล้ว สามารถบันทึกข้อสรุปของผู้ทวนสอบได้ทันที
