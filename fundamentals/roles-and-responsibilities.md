@@ -6,7 +6,7 @@
 _ระบบมีตัวเลือกการตั้งค่าให้ผู้ใช้งานสามารถกำหนดบทบาทและหน้าที่สำหรับผู้ใช้งานแต่ละประเภทได้เอง_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 

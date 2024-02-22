@@ -28,7 +28,7 @@
 * [📝 การกรอกข้อมูล](platformguides/data-input/README.md)
   * [ข้อมูลฉบับร่าง](platformguides/data-input/undefined.md)
   * [ส่งคำขออนุมัติ](platformguides/data-input/undefined-1.md)
-* [🔀 Import & Export รายการ](platformguides/import-and-export.md)
+* [🔀 Export & Import รายการ](platformguides/import-and-export.md)
 * [✅ การอนุมัติรายการ](platformguides/approve-items/README.md)
   * [ขั้นตอนการอนุมัติรายการ](platformguides/approve-items/undefined.md)
   * [ขั้นตอนการไม่อนุมัติรายการ](platformguides/approve-items/undefined-1.md)

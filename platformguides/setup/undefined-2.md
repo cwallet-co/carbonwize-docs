@@ -10,7 +10,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ใส่รายละเอียดของบริษัท
 
@@ -22,7 +22,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกประเภทอุตสาหกรรม
 2. เลือกกิจกรรม
@@ -32,7 +32,7 @@
 รายการกิจกรรมสามารถเลือกประเภทและรายการได้มากกว่า 1 รายการ
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. สร้างรายการกิจกรรมสำเร็จ
 
@@ -40,9 +40,9 @@
 
 ## ขั้นตอนการแก้ไขรายการกิจกรรม
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. สามารถกดสัญลักษณ์ตามลูกศรและแก้ไขรายการกิจกรรมได้ทันที
 
@@ -50,7 +50,7 @@
 
 ## ขั้นตอนการลบรายการกิจกรรม (1 รายการ)
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจเช็คชื่อรายการกิจกรรม
 2. กด icon ด้านหลังรายการ
@@ -60,7 +60,7 @@
 
 ## ขั้นตอนการลบรายการกิจกรรม (มากกว่า 1 รายการ)
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกรายการ
 2. กดปุ่ม ลบ
@@ -69,7 +69,7 @@
 
 ## ขั้นตอนการทำสำเนารายการกิจกรรม
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกรายการ
 2. กดปุ่ม สำเนา

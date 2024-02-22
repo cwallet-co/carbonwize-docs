@@ -20,14 +20,14 @@
 
 ## **ขั้นตอนการแก้ไขแผนก**
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนู โครงสร้างแผนก
 2. กด icon (icon edit)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขข้อมูล
 2. กดปุ่ม บันทึก
