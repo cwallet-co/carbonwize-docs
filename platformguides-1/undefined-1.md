@@ -6,7 +6,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าที่ลิงก์ https://m.carbonwize.io/ =>กด Create a new account
 2. กรอกข้อมูลทั้งหมดให้ครบถ้วน

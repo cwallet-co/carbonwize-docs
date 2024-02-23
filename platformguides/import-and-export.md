@@ -95,11 +95,19 @@
 
 ## Bulk import
 
-### ขั้นตอนการเตรียมข้อมูลสำหรับการ Bulk import&#x20;
+### Bulk import คือการอัปโหลดไฟล์เอกสารแนบเข้าในรายการกิจกรรม
 
-#### Bulk import เป็นการอัปโหลดไฟล์เอกสารแนบในกรณีที่ต้องการอัปโหลดเอกสารเยอะๆทีเดียว
+
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Bulk import ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Bulk import โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-and-export.md#import-data)
+
+
+
+#### ขั้นตอนการเตรียมข้อมูลสำหรับการ Bulk import&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 1 ข้อกำหนดการเตรียม Folder ของรายการกิจกรรม
 
@@ -109,7 +117,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 2 การเตรียม Folder สำหรับใส่เอกสารของรายการนั้น
 
