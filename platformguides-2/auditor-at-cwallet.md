@@ -8,7 +8,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อลงทะเบียนและได้รับเมลแจ้งเตือนแล้ว รอทาง Carbonwize ติดต่อและส่งเมลตอบกลับอีกครั้ง
 

@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มเมนู ตั้งค่าการใช้งาน
 2. กดปุ่มเมนู จัดการบัญชีผู้ใช้
@@ -11,7 +11,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกชื่อ
 2. กรอกนามสกุล

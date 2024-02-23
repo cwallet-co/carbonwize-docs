@@ -99,7 +99,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Bulk import ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Bulk import โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-and-export.md#import-data)
 
@@ -107,7 +107,7 @@
 
 #### ขั้นตอนการเตรียมข้อมูลสำหรับการ Bulk import&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 1 ข้อกำหนดการเตรียม Folder ของรายการกิจกรรม
 
@@ -117,7 +117,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 2 การเตรียม Folder สำหรับใส่เอกสารของรายการนั้น
 
@@ -138,7 +138,9 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-#### ขั้นตอนที่ 4 เมื่อเตรียม Folder เอกสารแนบเสร็จแล้วให้ทำ Folder เป็นไฟล์ .zip <mark style="background-color:purple;">ในการ Bulk import ต้องเป็นไฟล์ .zip เท่านั้น</mark>
+#### ขั้นตอนที่ 4 เมื่อเตรียม Folder เอกสารแนบเสร็จแล้วให้ทำ Folder เป็นไฟล์ .zip&#x20;
+
+#### <mark style="background-color:purple;">ในการ Bulk import ต้องเป็นไฟล์ .zip เท่านั้น</mark>
 
 
 
@@ -183,6 +185,8 @@
 1. เข้าหน้ากรอกข้อมูลของรายการตรวจวัดที่ได้ Bulk import สำเร็จ
 
 
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2567-02-22 at 17.04.30.png" alt=""><figcaption></figcaption></figure>
 

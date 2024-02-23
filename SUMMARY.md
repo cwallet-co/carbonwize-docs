@@ -4,9 +4,9 @@
 
 ## ข้อมูลเบื้องต้น <a href="#fundamentals" id="fundamentals"></a>
 
-* [✍ Book demo](fundamentals/bookdemo.md)
-* [✍ ลงทะเบียนใช้งาน (Beta)](fundamentals/registration.md)
-* [👩🔧 บทบาทและหน้าที่](fundamentals/roles-and-responsibilities.md)
+* [✍️ Book demo](fundamentals/bookdemo.md)
+* [✍️ ลงทะเบียนใช้งาน (Beta)](fundamentals/registration.md)
+* [👩‍🔧 บทบาทและหน้าที่](fundamentals/roles-and-responsibilities.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
 
@@ -14,7 +14,7 @@
   * [🔸 การตั้งค่าแบบง่าย](platformguides/undefined/easy.md)
   * [🔹 การตั้งค่าแบบละเอียด](platformguides/undefined/detailed.md)
 * [📈 ภาพรวมขององค์กร](platformguides/undefined-1.md)
-* [⚙ ตั้งค่าการใช้งาน](platformguides/setup/README.md)
+* [⚙️ ตั้งค่าการใช้งาน](platformguides/setup/README.md)
   * [การตั้งค่าโครงสร้างบริษัท](platformguides/setup/undefined.md)
   * [การตั้งค่าโครงสร้างองค์กร](platformguides/setup/undefined-1/README.md)
     * [การตั้งค่าโครงสร้างสาขา](platformguides/setup/undefined-1/undefined.md)
@@ -38,11 +38,11 @@
 * [📊 Emission Factor](platformguides/emission-factor/README.md)
   * [กำหนด Emission Factor เอง](platformguides/emission-factor/emission-factor.md)
   * [การระบุค่าการปล่อยก๊าซเรือนกระจก (EF)](platformguides/emission-factor/ef.md)
-* [🗂 ทวนสอบข้อมูล](platformguides/undefined-3.md)
+* [🗂️ ทวนสอบข้อมูล](platformguides/undefined-3.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
 
-* [✍ สมัครใช้งานแพลทฟอร์มผ่านมือถือ](platformguides-1/undefined-1.md)
+* [✍️ สมัครใช้งานแพลทฟอร์มผ่านมือถือ](platformguides-1/undefined-1.md)
 * [📝 ขั้นตอนการติดตั้งระบบ Android](platformguides-1/android.md)
 * [📝 ขั้นตอนการติดตั้งระบบ iOS](platformguides-1/data-input.md)
 * [💡 ขั้นตอนการเข้าสู่ระบบ](platformguides-1/undefined-2.md)
@@ -55,7 +55,7 @@
 * [📬 ขั้นตอนการลงทะเบียนเป็น Auditor at Carbonwize](platformguides-2/auditor-at-cwallet.md)
 * [ขั้นตอนการเข้าสู่ระบบ](platformguides-2/undefined.md)
 * [ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าบริษัท](platformguides-2/undefined-1.md)
-* [🗂 ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
+* [🗂️ ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
   * [📈 ภาพรวมขององค์กร](platformguides-2/undefined-2/undefined-1.md)
 * [หน้าโปรไฟล์](platformguides-2/undefined-3.md)
 * [เปลี่ยนรหัสผ่าน](platformguides-2/undefined-4.md)
