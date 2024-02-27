@@ -1,5 +1,15 @@
 # What's new
 
+## 1.6.0 (23-02-2024)
+
+### New features&#x20;
+
+* เพิ่มการ Import file เข้าระบบ
+
+### Improvements/Performance
+
+* หน้า become partner, subscribe, book demo ปรับรูปแบบการกรอกอีเมลต้องใส่อีเมลบริษัท, ธุรกิจ เท่านั้น
+
 ## 1.5.0 (2023-12-12)
 
 ### New features

@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการขอแก้ไขข้อมูลหลังจากอนุมัติรายการแล้ว**
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### การขอแก้ไขข้อมูลหลังจากที่อนุมัติรายการไปแล้วจะสามารถขอแก้ไขได้โดย Approver เท่านั้น ส่วนการแก้ไขข้อมูลจะเป็น Admin เท่านั้น
 
@@ -12,7 +12,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ตรวจเช็คข้อมูลรายการ
 
@@ -23,7 +23,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. ใส่คำอธิบายเพื่อให้ทราบว่าข้อมูลผิด เพื่อที่ Admin จะได้แก้ไขข้อมูลได้ถูกต้อง
 2. กดปุ่ม ส่งคำขอการแก้ไข
@@ -32,7 +32,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### การแก้ไขรายการที่อนุมัติไปแล้วจะสามารถทำได้โดย Admin เท่านั้น
 
@@ -42,7 +42,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขข้อมูล, ไฟล์แนบ
 2. กดปุ่ม บันทึก
