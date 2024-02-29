@@ -67,4 +67,4 @@
 ***
 
 * [What's new](whats-new.md)
-* [Contact support](contact-support.md)
+* [Contact us](contact-us.md)
