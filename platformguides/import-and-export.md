@@ -105,7 +105,7 @@
 
 #### ขั้นตอนการเตรียมข้อมูลสำหรับการ Import file&#x20;
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 1 ข้อกำหนดการเตรียม Folder ของรายการกิจกรรม
 
@@ -115,7 +115,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 2 การเตรียม Folder สำหรับใส่เอกสารของรายการนั้น
 
@@ -125,7 +125,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 3 นำไฟล์เอกสารแนบใส่ใน Folder ตามเดือนที่ต้องการอัปโหลดเอกสาร
 
@@ -134,7 +134,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 4 เมื่อเตรียม Folder เอกสารแนบเสร็จแล้วให้ทำ Folder เป็นไฟล์ .zip&#x20;
 
