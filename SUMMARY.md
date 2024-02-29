@@ -2,11 +2,12 @@
 
 * [👋 ยินดีต้อนรับสู่ Carbonwize](README.md)
 
-## ข้อมูลเบื้องต้น <a href="#fundamentals" id="fundamentals"></a>
+## ข้อมูลเบื้องต้น <a href="#getting-started" id="getting-started"></a>
 
-* [✍️ Book demo](fundamentals/bookdemo.md)
-* [✍️ ลงทะเบียนใช้งาน (Beta)](fundamentals/registration.md)
-* [👩‍🔧 บทบาทและหน้าที่](fundamentals/roles-and-responsibilities.md)
+* [✍️ Book demo](getting-started/book-demo.md)
+* [✍️ ลงทะเบียนใช้งาน (Beta)](getting-started/registration.md)
+* [✍️ เปลี่ยนรหัสผ่าน](getting-started/reset-password.md)
+* [👩‍🔧 บทบาทและหน้าที่](getting-started/roles-and-responsibilities.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
 
@@ -58,7 +59,6 @@
 * [🗂️ ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
   * [📈 ภาพรวมขององค์กร](platformguides-2/undefined-2/undefined-1.md)
 * [หน้าโปรไฟล์](platformguides-2/undefined-3.md)
-* [เปลี่ยนรหัสผ่าน](platformguides-2/undefined-4.md)
 
 ## เกร็ดความรู้ <a href="#tips" id="tips"></a>
 
