@@ -40,6 +40,7 @@
   * [กำหนด Emission Factor เอง](platformguides/emission-factor/emission-factor.md)
   * [การระบุค่าการปล่อยก๊าซเรือนกระจก (EF)](platformguides/emission-factor/ef.md)
 * [🗂️ ทวนสอบข้อมูล](platformguides/undefined-3.md)
+* [🗂️ Export รายงานข้อมูลทวนสอบ](platformguides/export.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
 
