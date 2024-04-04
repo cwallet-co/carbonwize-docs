@@ -1,10 +1,12 @@
 # ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าบริษัท
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-### เมลแจ้งเตือนให้ตอบรับคำเชิญ
+เมื่อได้รับเมลคำเชิญให้เข้าในระบบขององค์กร
 
-1. ผู้ทวนสอบตรวจสอบ Email และกด ACCEPT INVITATION เพื่อตอบกลับการเป็นผู้ทวนสอบของบริษัทที่ได้เชิญ
+1. ผู้ทวนสอบตรวจสอบ Email และสามารถกด ACCEPT INVITATION เพื่อตอบกลับการเป็นผู้ทวนสอบของบริษัทที่ได้เชิญได้ทันที
+
+
 
 
 

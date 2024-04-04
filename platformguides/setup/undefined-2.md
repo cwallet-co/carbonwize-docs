@@ -10,7 +10,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ใส่รายละเอียดของบริษัท
 
@@ -22,7 +22,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกประเภทอุตสาหกรรม
 2. เลือกกิจกรรม
@@ -32,7 +32,7 @@
 รายการกิจกรรมสามารถเลือกประเภทและรายการได้มากกว่า 1 รายการ
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. สร้างรายการกิจกรรมสำเร็จ
 

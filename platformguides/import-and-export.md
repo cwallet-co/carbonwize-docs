@@ -4,7 +4,7 @@
 
 ### ขั้นตอนการเตรียมข้อมูลสำหรับการ Import data&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. สร้างรายการตรวจวัดเสร็จเรียบร้อย
 2. ค้นหารายการที่ต้องการ Import data&#x20;
@@ -16,9 +16,9 @@
 
 #### หลังจาก Export รายการออกมาแล้ว ให้ใส่ข้อมูลให้ครบถ้วนตาม Format ในไฟล์ที่ได้ทำการ Export ออกมา
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **กรุณาอ่านรายละเอียดและกรอกข้อมูลให้ครบถ้วนก่อน Import data**
 
@@ -97,7 +97,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ก่อน Import file ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Import file โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-and-export.md#import-data)
 
