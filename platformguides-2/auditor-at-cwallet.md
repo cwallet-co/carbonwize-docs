@@ -13,4 +13,11 @@
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อลงทะเบียนและได้รับเมลแจ้งเตือนแล้ว รอทาง Carbonwize ติดต่อและส่งเมลตอบกลับอีกครั้ง
-2. เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบได้ใช้ password ในเมลตอบกลับได้ทันที
+
+
+
+
+
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+
+1. เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบโดยใช้ password ในเมลตอบกลับได้ทันที
